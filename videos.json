@@ -81,7 +81,7 @@
       "id": "12",
       "title": "Flashstorm",
       "prompt": "Begin with the input image, placing the character centered on a red carpet walkway. Start the scene with the camera positioned close to the character, then slowly pull back to reveal the full carpet, flashing lights, and animated paparazzi on both sides of the walkway. Paparazzi should be holding cameras, taking photos with rapid light bursts. Simulate camera flashes with varying intensity and angles, creating dynamic lighting on the character. Add soft camera shake and slight depth-of-field for realism. The character remains completely still in a confident pose, facing forward. No character animation, only scene movement and flashing effects.",
-      "url": "flashstorm.mp4",
+      "url": "https://raw.githubusercontent.com/OguzhanYildirimm/app-headshot-video-config/main/flashstorm.mp4",
       "desc": "Step onto the red carpet as paparazzi flash their cameras in your spotlight!"
     }
   ]
