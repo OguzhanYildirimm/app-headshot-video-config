@@ -121,7 +121,7 @@
   "id": "14",
   "title": "Kiss",
   "requiredImage": 1,
-  "prompt": "Begin with the input image. Animate a confident and passionate kiss-blow scene. The character raises one hand to form a heart gesture or pose flirtatiously, then dramatically blows a kiss forward. As the kiss is released, a glowing, fiery heart flies outward with sparkles, trailing red-hot energy like a meteor. Add warm lighting, soft zoom-in, and subtle camera shake for drama. The character’s expression should be bold, flirtatious, and captivating.",
+  "prompt": "Start with the input image showing two real people in close proximity. Animate the scene beginning with an already engaged French kiss — both characters are locked in an intense, passionate lip kiss with parted mouths and soft motion. The characters should appear physically close, faces pressed together naturally. Animate gentle yet sensual head movement, and subtle synchronized shifts in posture. The hands and arms must be active: one character places a hand firmly on the other’s jawline or neck, the second character may wrap an arm around the waist or pull them in closer. Facial muscles should slightly flex to reflect tension and passion. Keep eye expressions softly closed. Lighting should be warm and dim, with soft shadows and a tight cinematic frame. The overall vibe should be raw, physical, and emotionally charged — as if the viewer just walked in on an intimate moment.",
   "url": "https://raw.githubusercontent.com/OguzhanYildirimm/app-headshot-video-config/main/kiss.mp4",
   "desc": "Blow a fiery kiss with confidence and passion!",
   "hint": "If you're using only one image, uploading it to the 'First Image' section is enough."
