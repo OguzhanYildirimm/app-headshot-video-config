@@ -3,128 +3,128 @@
     {
       "id": "1",
       "title": "Dance",
-      "requiredImage":1,
+      "requiredImage": 1,
       "prompt": "Start with the input image. Keep the background and lighting exactly the same. Animate the character performing a meme-style dance based on Donald Trump’s iconic rally moves: alternate between lifting the right and left arms forward in a light pumping motion, with fists slightly clenched. Sync each arm movement with a slight bend in the same-side knee — right arm forward with right knee flexing slightly, then left arm with left knee. Keep the torso upright and movements slow, controlled, and rhythmically awkward. Facial expression remains focused or mildly amused. Avoid exaggerated dancing or fast motions.",
       "url": "https://raw.githubusercontent.com/OguzhanYildirimm/app-headshot-video-config/main/tmpjt3t5mjs.mp4",
       "desc": "Animate your photo with a meme-inspired dance!",
-            "hint": ""
+      "hint": ""
     },
     {
       "id": "2",
       "title": "Anime Transform",
-      "requiredImage":1,
+      "requiredImage": 1,
       "prompt": "Start with the input image and preserve the subject’s gender, facial features, and identity exactly as they appear. Begin with the subject standing in place, then animate a graceful but powerful spin around their own axis. As they rotate, swirl glowing energy ribbons, light trails, and aura effects around their body. Mid-spin, add speed lines and camera shake. When the spin ends, the subject stomps or lands with force, striking a dramatic pose. At this precise moment, simulate a transformation burst: a flash of light, clothing shifts into a stylized anime costume while keeping the character’s silhouette and personality intact. Hair may flow more dramatically, and colors may intensify, but identity must remain the same. The background pulses with energy and distortions. Add anime visual effects — sparkles, speed lines, glowing highlights — all synchronized with camera motion circling the subject. End with a freeze-frame of the same person, now in anime form, in a confident or powerful final pose, surrounded by visual energy.",
       "url": "https://raw.githubusercontent.com/OguzhanYildirimm/app-headshot-video-config/main/anime-transform.mp4",
       "desc": "Transform your video into a cinematic anime scene!",
-            "hint": ""
+      "hint": ""
     },
     {
       "id": "3",
       "title": "Aura",
-      "requiredImage":1,
+      "requiredImage": 1,
       "prompt": "Use the input image. Fade in a soft glow around the subject, forming a subtle aura that pulses with color — based on the dominant tones in the image. Apply a low-intensity radial bloom effect, expanding from the center of the subject. Add a very light chromatic shift on the edges of the frame to simulate lens response. Do not move or animate the subject. The mood should feel ethereal, artistic, and emotionally expressive.",
       "url": "https://raw.githubusercontent.com/OguzhanYildirimm/app-headshot-video-config/main/aura.mp4",
       "desc": "Add a glowing, emotional aura to your video.",
-            "hint": ""
+      "hint": ""
     },
     {
       "id": "4",
       "title": "Explorer",
-      "requiredImage":1,
+      "requiredImage": 1,
       "prompt": "Start with the input image. Create a calm and cinematic atmosphere, evoking the feeling of an explorer having just made a discovery. Slowly animate soft wind drifting through the background, along with gentle lighting changes simulating passing clouds or golden hour light. If the subject is holding an object like a map or scroll, give it a subtle warm glow to draw focus, without overpowering the scene. Add light dust particles floating through the air to enhance realism. The camera slowly pulls back or slightly rises to reveal more of the background. Do not animate the subject — maintain a composed, thoughtful stance.",
       "url": "https://raw.githubusercontent.com/OguzhanYildirimm/app-headshot-video-config/main/explorer.mp4",
       "desc": "Create a cinematic explorer vibe full of discovery.",
-            "hint": ""
+      "hint": ""
     },
     {
       "id": "5",
       "title": "GT4 Wanted",
-      "requiredImage":1,
+      "requiredImage": 1,
       "prompt": "Start with the input image of the character standing on a city street. Two police cars enter the background from the back left and back right at low speed, drifting smoothly into a stop. Ensure both cars stay grounded with no jumping or physics errors. Add subtle tire smoke and brake light reflections on the ground. The character must hold a weapon in their right hand at all times. Do not move the right arm or hand under any condition. Only minimal slow-motion movement is allowed: a slight head turn or left-hand sunglasses adjustment. Avoid all exaggerated, dance-like, or playful movements. The character must appear serious and grounded. Add red and blue police light reflections, slight background heat shimmer, and a gentle handheld camera zoom-in to complete the scene.",
       "url": "https://raw.githubusercontent.com/OguzhanYildirimm/app-headshot-video-config/main/gt4-wanted.mp4",
       "desc": "Drop into a gritty GTA-style police showdown scene.",
-            "hint": ""
+      "hint": ""
     },
     {
       "id": "6",
       "title": "Heart and Kiss",
-       "requiredImage":1,
+      "requiredImage": 1,
       "prompt": "Start with the input image. Animate the subject slowly raising both hands near their chest to form a heart shape, making sure the gesture stays below the chin so the face remains clearly visible. As the heart completes, the subject tilts their head slightly, holds eye contact with the camera, and blows a kiss forward with a confident, flirty expression. A glowing pink heart floats out from the lips, leaving behind sparkles and light trails as it moves toward the viewer. Add a soft ambient glow, subtle bokeh in the background, and light particles drifting through the air. The subject remains mostly still, except for graceful hand and head motion. The entire scene should feel elegant, romantic, and slightly cheeky — perfect for social media.",
       "url": "https://raw.githubusercontent.com/OguzhanYildirimm/app-headshot-video-config/main/heart-and-kiss.mp4",
       "desc": "Send a magical heart and kiss to your followers!",
-            "hint": ""
+      "hint": ""
     },
     {
       "id": "7",
       "title": "Hulk Transform",
-       "requiredImage":1,
+      "requiredImage": 1,
       "prompt": "Start with the input image. Slowly add green skin texture and muscle mass overlay to the subject while keeping the pose intact. Animate slight tearing effects on the clothing, glowing green aura expanding from the body, and cracks forming beneath their feet. Do not animate the character — only morph the body slightly and change appearance. Add a camera shake and dust pulse as the transformation peaks, then freeze frame on full Hulk form.",
       "url": "https://raw.githubusercontent.com/OguzhanYildirimm/app-headshot-video-config/main/hulk.mp4",
       "desc": "Transform yourself into a powerful Hulk version!",
-            "hint": ""
+      "hint": ""
     },
     {
       "id": "8",
       "title": "Magazine Trailer",
-       "requiredImage":1,
+      "requiredImage": 1,
       "prompt": "Start with the input image. Begin with a slow zoom-in toward the character’s face or upper body. Just before reaching full frame, freeze the image completely. Overlay a realistic magazine cover design around the character — including bold stylized title text like “VOGUE” or “STYLE WEEKLY”, headlines, and decorative elements. The background should slightly blur to focus on the subject. Add a glossy magazine finish effect with soft light reflections. Do not animate the character after the freeze. Keep the pose confident and cover-worthy.",
       "url": "https://raw.githubusercontent.com/OguzhanYildirimm/app-headshot-video-config/main/magazine.mp4",
       "desc": "Turn your photo into a glossy magazine cover!",
-            "hint": ""
+      "hint": ""
     },
     {
       "id": "9",
       "title": "Muscle",
-       "requiredImage":1,
+      "requiredImage": 1,
       "prompt": "Start with the input image. Keep the character completely still and centered. Begin by simulating a dramatic wind burst from the front, causing the subject’s shirt to ripple, then tear open with an explosive cloth shredding effect. Reveal an exaggerated muscular torso underneath — enhanced visually with definition overlays and glowing highlights. Add a quick zoom-in with screen shake and a slow-motion freeze at peak moment. Background can blur slightly to draw focus.",
       "url": "https://raw.githubusercontent.com/OguzhanYildirimm/app-headshot-video-config/main/muscle.mp4",
       "desc": "Unleash your hidden muscles in a dramatic reveal!",
-            "hint": ""
+      "hint": ""
     },
     {
       "id": "10",
       "title": "Summoner Circle",
-       "requiredImage":1,
+      "requiredImage": 1,
       "prompt": "Start with the input image, placing the character at the center of the frame. Beneath the character, generate a glowing magical summoning circle with rotating mystical runes and energy lines. The circle should emit soft pulsating light that reflects onto the character's body. Add light particles and smoke effects rising from the ground, swirling slowly around the character. Keep the character completely still, in a powerful pose, as if channeling energy. Do not animate the body or arms. Background should remain dark or fade subtly to focus attention on the glowing magic effects.",
       "url": "https://raw.githubusercontent.com/OguzhanYildirimm/app-headshot-video-config/main/summoner.mp4",
       "desc": "Summon powerful magic with glowing energy circles!",
-            "hint": ""
+      "hint": ""
     },
     {
       "id": "11",
       "title": "Toy-Box",
-       "requiredImage":1,
+      "requiredImage": 1,
       "prompt": "Animate the character as a cartoon toy inside a plastic action figure box with the word 'Avatar' on top. The hands in the scene hold the package and slowly rotate or move it slightly to show the figure inside. Add glossy reflections on the plastic and subtle lighting shifts to make it feel realistic and dynamic. Keep the whole scene clean, bright, and fun.",
       "url": "https://raw.githubusercontent.com/OguzhanYildirimm/app-headshot-video-config/main/box-toy-box.mp4",
       "desc": "Become a collectible action figure inside a toy box!",
-            "hint": ""
+      "hint": ""
     },
     {
       "id": "12",
       "title": "Flashstorm",
-       "requiredImage":1,
+      "requiredImage": 1,
       "prompt": "Begin with the input image, placing the character centered on a red carpet walkway. Start the scene with the camera positioned close to the character, then slowly pull back to reveal the full carpet, flashing lights, and animated paparazzi on both sides of the walkway. Paparazzi should be holding cameras, taking photos with rapid light bursts. Simulate camera flashes with varying intensity and angles, creating dynamic lighting on the character. Add soft camera shake and slight depth-of-field for realism. The character remains completely still in a confident pose, facing forward. No character animation, only scene movement and flashing effects.",
       "url": "https://raw.githubusercontent.com/OguzhanYildirimm/app-headshot-video-config/main/flashstorm.mp4",
       "desc": "Step onto the red carpet as paparazzi flash their cameras in your spotlight!",
       "hint": ""
     },
     {
-  "id": "13",
-  "title": "Hug",
-  "requiredImage": 2,
-  "prompt": "Start with the input image. Animate a soft and emotional moment where the character gently leans forward with open arms, as if giving a warm and loving hug. Simulate subtle body movement like arm motion and a slight head tilt. Add glowing particles, soft lighting, and a comforting ambient aura around the character. The scene should feel affectionate and emotionally uplifting, like a comforting embrace from a close friend or loved one.",
-  "url": "https://raw.githubusercontent.com/OguzhanYildirimm/app-headshot-video-config/main/hug.mp4",
-  "desc": "Share a warm, heartfelt hug filled with love and comfort.",
-  "hint": "If you're using only one image, uploading it to the 'First Image' section is enough."
-},
-{
-  "id": "14",
-  "title": "Kiss",
-  "requiredImage": 2,
-  "prompt": "Start with the input image showing two real people in close proximity. Animate the scene beginning with an already engaged French kiss — both characters are locked in an intense, passionate lip kiss with parted mouths and soft motion. The characters should appear physically close, faces pressed together naturally. Animate gentle yet sensual head movement, and subtle synchronized shifts in posture. The hands and arms must be active: one character places a hand firmly on the other’s jawline or neck, the second character may wrap an arm around the waist or pull them in closer. Facial muscles should slightly flex to reflect tension and passion. Keep eye expressions softly closed. Lighting should be warm and dim, with soft shadows and a tight cinematic frame. The overall vibe should be raw, physical, and emotionally charged — as if the viewer just walked in on an intimate moment.",
-  "url": "https://raw.githubusercontent.com/OguzhanYildirimm/app-headshot-video-config/main/kiss.mp4",
-  "desc": "Blow a fiery kiss with confidence and passion!",
-  "hint": "If you're using only one image, uploading it to the 'First Image' section is enough."
-}
+      "id": "13",
+      "title": "Hug",
+      "requiredImage": 1,
+      "prompt": "Start with the input image. Animate a soft and emotional moment where the character gently leans forward with open arms, as if giving a warm and loving hug. Simulate subtle body movement like arm motion and a slight head tilt. Add glowing particles, soft lighting, and a comforting ambient aura around the character. The scene should feel affectionate and emotionally uplifting, like a comforting embrace from a close friend or loved one.",
+      "url": "https://raw.githubusercontent.com/OguzhanYildirimm/app-headshot-video-config/main/hug.mp4",
+      "desc": "Share a warm, heartfelt hug filled with love and comfort.",
+      "hint": "If you're using only one image, uploading it to the 'First Image' section is enough."
+    },
+    {
+      "id": "14",
+      "title": "Kiss",
+      "requiredImage": 1,
+      "prompt": "Start with the input image showing two real people in close proximity. Animate the scene beginning with an already engaged French kiss — both characters are locked in an intense, passionate lip kiss with parted mouths and soft motion. The characters should appear physically close, faces pressed together naturally. Animate gentle yet sensual head movement, and subtle synchronized shifts in posture. The hands and arms must be active: one character places a hand firmly on the other’s jawline or neck, the second character may wrap an arm around the waist or pull them in closer. Facial muscles should slightly flex to reflect tension and passion. Keep eye expressions softly closed. Lighting should be warm and dim, with soft shadows and a tight cinematic frame. The overall vibe should be raw, physical, and emotionally charged — as if the viewer just walked in on an intimate moment.",
+      "url": "https://raw.githubusercontent.com/OguzhanYildirimm/app-headshot-video-config/main/kiss.mp4",
+      "desc": "Blow a fiery kiss with confidence and passion!",
+      "hint": "If you're using only one image, uploading it to the 'First Image' section is enough."
+    }
   ]
 }
