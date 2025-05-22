@@ -21,7 +21,7 @@
     {
       "id": "3",
       "title": "Aura",
-      "requiredImage": 1,
+      "requiredImage": 2,
       "prompt": "Use the input image. Fade in a soft glow around the subject, forming a subtle aura that pulses with color — based on the dominant tones in the image. Apply a low-intensity radial bloom effect, expanding from the center of the subject. Add a very light chromatic shift on the edges of the frame to simulate lens response. Do not move or animate the subject. The mood should feel ethereal, artistic, and emotionally expressive.",
       "url": "https://raw.githubusercontent.com/OguzhanYildirimm/app-headshot-video-config/main/aura.mp4",
       "desc": "Add a glowing, emotional aura to your video.",
@@ -30,7 +30,7 @@
     {
       "id": "4",
       "title": "Explorer",
-      "requiredImage": 1,
+      "requiredImage": 2,
       "prompt": "Start with the input image. Create a calm and cinematic atmosphere, evoking the feeling of an explorer having just made a discovery. Slowly animate soft wind drifting through the background, along with gentle lighting changes simulating passing clouds or golden hour light. If the subject is holding an object like a map or scroll, give it a subtle warm glow to draw focus, without overpowering the scene. Add light dust particles floating through the air to enhance realism. The camera slowly pulls back or slightly rises to reveal more of the background. Do not animate the subject — maintain a composed, thoughtful stance.",
       "url": "https://raw.githubusercontent.com/OguzhanYildirimm/app-headshot-video-config/main/explorer.mp4",
       "desc": "Create a cinematic explorer vibe full of discovery.",
@@ -111,7 +111,7 @@
     {
       "id": "13",
       "title": "Hug",
-      "requiredImage": 1,
+      "requiredImage": 2,
       "prompt": "Start with the input image. Animate a soft and emotional moment where the character gently leans forward with open arms, as if giving a warm and loving hug. Simulate subtle body movement like arm motion and a slight head tilt. Add glowing particles, soft lighting, and a comforting ambient aura around the character. The scene should feel affectionate and emotionally uplifting, like a comforting embrace from a close friend or loved one.",
       "url": "https://raw.githubusercontent.com/OguzhanYildirimm/app-headshot-video-config/main/hug.mp4",
       "desc": "Share a warm, heartfelt hug filled with love and comfort.",
@@ -120,7 +120,7 @@
     {
       "id": "14",
       "title": "Kiss",
-      "requiredImage": 1,
+      "requiredImage": 2,
       "prompt": "Start with the input image showing two real people in close proximity. Animate the scene beginning with an already engaged French kiss — both characters are locked in an intense, passionate lip kiss with parted mouths and soft motion. The characters should appear physically close, faces pressed together naturally. Animate gentle yet sensual head movement, and subtle synchronized shifts in posture. The hands and arms must be active: one character places a hand firmly on the other’s jawline or neck, the second character may wrap an arm around the waist or pull them in closer. Facial muscles should slightly flex to reflect tension and passion. Keep eye expressions softly closed. Lighting should be warm and dim, with soft shadows and a tight cinematic frame. The overall vibe should be raw, physical, and emotionally charged — as if the viewer just walked in on an intimate moment.",
       "url": "https://raw.githubusercontent.com/OguzhanYildirimm/app-headshot-video-config/main/kiss.mp4",
       "desc": "Blow a fiery kiss with confidence and passion!",
